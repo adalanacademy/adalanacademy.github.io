@@ -1,0 +1,6 @@
+[book]
+authors = ["Adalan Academy Crew"]
+language = "en"
+multilingual = false
+src = "src"
+title = "Adalan Academy"

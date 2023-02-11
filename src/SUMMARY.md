@@ -6,9 +6,9 @@
 
 ## What?
 
-	- [Programming](./programming.md)
-	- [Economics](./economics.md)
-	- [Ideology](./ideology.md)
+- [Programming](./programming.md)
+- [Economics](./economics.md)
+- [Ideology](./ideology.md)
 
 - [Methodology](./methodology.md)
 	- [Gaining knowledge](./epistemology.md)

@@ -1,0 +1,7 @@
+#### Culture and ethics
+
+The academy places great emphasis on fostering an own culture of learning and working together that goes beyond the content of its courses. We value free and open debate and exchange of ideas, including ideas that appear controversial or dangerous. We are not interested in constantly agreeing with one another but in challenging each other’s ideas, learning to defend, develop and improve them.
+
+To be able to uphold full intellectual freedom all participants in the academy are expected to abide by common moral principles. Everyone who is sincere about the mission is welcome. Participants respect each other and help one another wherever possible. When we criticize we try to bring others up, not push them down, and propose alternatives. When we get criticized we always take it seriously and learn from it. Our ideas are validated through action, and the morals of how to treat one another are the first and foremost step of that action.
+
+Commitment and self-discipline are important values as well. Without it any coordinated effort either starts to rely on central leadership until it becomes authoritarian, or turns into an inconsequential waste of resources. Members of the academy strive to be pioneers, brave and compassionate people who are at the same time engineers, warriors and philosophers. They use their strength to help others and have the courage to ask for help when they need it. Their path is one of dedication, empathy, perseverance and humility, of being students as well as teachers.

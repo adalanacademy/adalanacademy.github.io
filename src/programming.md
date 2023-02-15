@@ -12,10 +12,15 @@ Because of this and also because it is a relatively new but massively influentia
 Programming studies in the academy focus on training beginners in Python and the Linux command line, and offering more advanced classes in Rust, cryptography and anonymous engineering.
 The aim is to build digital infrastructure that is sovereign, antifragile and uncensorable and can effectively facilitate social functions such as communication, coordination, trade, finance, education and many others.
 
-Unlike a coder *bootcamps*, the academy is not focused on bringing students into the workforce where they can trade meaningless labor for comfortable salaries.
+Unlike coder *bootcamps*, the academy is not focused on bringing students into the workforce where they can trade meaningless labor for comfortable salaries.
 The academy encourages traits of creativity, curiosity, and self-motivation.
 
-The beginner course will provide the programming foundation to start building your own programs and reading public code. You will also learn about Linux and the free software ecosystem.
+Prospective students can join with any amount of prior experience. From absolute beginner to professional. The academy maintains a general track:
 
-Advanced courses will cover the systems language Rust, smart contracts, cryptography and anonymity engineering. You will learn to collaborate in teams and also cross-pollinate ideas among
-the economics branch of the academy in group projects.
+1. Python and Linux foundations, start building your own programs and reading public code as well as familiarization with the free software ecosystem
+2. Rust systems development, learn more advanced features of the language and build production-level software, contribute to open source projects, work in teams and cross-pollinate ideas
+3. Specializations such as networking, cryptography, smart contracts, anonymity engineering, intelligent systems
+
+A mentor will design a specific track for you or a group based on your personal goals and desired outcomes. All tracks will have an element of applied research, self-inquiry into personal objectives, and collaboration with others.
+
+If you are interested in setting up a programming track, join the Adalan signal group [here](https://signal.group/#CjQKIEeJ2ug_P1oehIN-DMRRDYpYXfYyTaErJyMQsy6IjW-KEhBNcs_xApVjhT2IVajFDSvQ) and speak with the programming mentors.

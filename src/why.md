@@ -29,7 +29,7 @@ The fact remains that for all its effort and brutality, state civilization has b
 It remains strong in the periphery, in ferns and forests, deserts and steppes, on remote islands and high mountains. And it holds sway in the centers, the eternal suburbs and high-rise megacities,
 from the lowliest women forming secret clubs to fight off rapists and educate their children, to the high-level government employee leaking information about the state's war crimes and surveillance programs to the public.
 
-The reason that state civilization remains hegemonic and seemingly without alternative is that is has developed a global system of institutions that back its power materially and
+The reason that state civilization remains hegemonic and seemingly without alternative is that it has developed a global system of institutions that back its power materially and
 ideologically, whereas its democratic counterpart is in a disarray of a thousand disconnected fragments, lacking unity and direction.
 
 The revolutionary mission of the 21st century is to reclaim our societies’ moral and political legacy, to unite the forces fighting for freedom and justice, and usher in the new age

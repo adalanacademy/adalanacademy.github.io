@@ -1,5 +1,8 @@
 ## Why?
 
+> "The aim of totalitarian education has never been to instill convictions but to destroy the capacity to form any."
+- *Hannah Arendt*
+
 Any system of rule in human history is intent on displaying itself as eternal and unquestionable. Forces that are in contradiction with it are therefore condemned in the strongest possible terms,
 their ideas outlawed, any memory of them wiped out.
 

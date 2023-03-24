@@ -24,4 +24,4 @@ Prospective students can join with any amount of prior experience. From an absol
 
 A mentor will design a specific track for you or a group based on your personal goals and desired outcomes. All tracks will have an element of applied research, self-inquiry into personal objectives, and collaboration with others.
 
-If you are interested in setting up a programming track, join the Adalan signal group [here](https://signal.group/#CjQKIEeJ2ug_P1oehIN-DMRRDYpYXfYyTaErJyMQsy6IjW-KEhBNcs_xApVjhT2IVajFDSvQ) and speak with the programming mentors.
+If you are interested in setting up a programming track, join the Adalan Telegram group [here](https://t.me/adalancommunity) and speak with the programming mentors.

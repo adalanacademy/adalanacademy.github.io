@@ -9,17 +9,18 @@ While the production and maintenance of the hardware and infrastructure it relie
 to source the raw materials, software technology has managed to defend itself against total capture and libertarian philosophy is still strong among many of those who build it.
 Because of this and also because it is a relatively new but massively influential development in society, it has a huge potential to disrupt the existing power structures and build democratic alternatives.
 
-Programming studies in the academy focus on training beginners in Python and the Linux command line, and offering more advanced classes in Rust, cryptography and anonymous engineering.
-The aim is to build digital infrastructure that is sovereign, antifragile and uncensorable and can effectively facilitate social functions such as communication, coordination, trade, finance, education and many others.
+Studies in the academy will begin with training beginners in Python and Linux. Beginners will learn to use open source tools, which will open them to a new realm of possibilities, as most advanced tooling today is developed as open source command line applications on Github. Students will build their own programs in Python and learn proper software design which adheres to the original Unix philosophy of small composable systems. By integrating the use of well-designed open source software alongside learning to develop, students will understand the complete process of software development from idea to distribution for others to use.
+
+Programming studies in the academy will develop into advanced tracks
+- Anonymity engineering
+- Offensive/defensive security
+- Smart contracts
+- Intelligent systems/AI
 
 Unlike coder *bootcamps*, the academy is not focused on bringing students into the workforce where they can trade meaningless labor for comfortable salaries.
-The academy encourages traits of creativity, curiosity, and self-motivation.
+The academy encourages traits of creativity, curiosity, self-motivation and purpose.
 
-Prospective students can join with any amount of prior experience. From absolute beginner to professional. The academy maintains a general track:
-
-1. Python and Linux foundations, start building your own programs and reading public code as well as familiarization with the free software ecosystem
-2. Rust systems development, learn more advanced features of the language and build production-level software, contribute to open source projects, work in teams and cross-pollinate ideas
-3. Specializations such as networking, cryptography, smart contracts, anonymity engineering, intelligent systems
+Prospective students can join with any amount of prior experience. From an absolute beginner that wants to learn advanced skills without the existing institutions, to a professional that wants new skills to work purposefully with community.
 
 A mentor will design a specific track for you or a group based on your personal goals and desired outcomes. All tracks will have an element of applied research, self-inquiry into personal objectives, and collaboration with others.
 

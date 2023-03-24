@@ -3,10 +3,8 @@
 The prevalent student-teacher relation, where a teacher dictates a program to a student who has to learn the material, makes students passive and reliant on the instructor, instead of developing independently.
 Creativity is suppressed since students do not explore and engage with knowledge dialectically.
 
-The academy fosters a system of mentorship. All participants engage in study and research. The subjects are related to one another in various ways and students are encouraged to study multiple subjects,
-but with a clear focus and direction.
-This approach places a high responsibility on the students which they are expected to live up to. Our aim is to empower people, to not shy away from leadership and responsibility but to practice it
-in a libertarian way. Therefore every member must strive to
+The academy fosters a system of mentorship. All participants engage in study and research. The subjects are related to one another in various ways and students are encouraged to study multiple subjects, but with a clear focus and direction.
+This approach places a high responsibility on the students which they are expected to live up to. Our aim is to empower people, to not shy away from leadership and responsibility but to practice it in a libertarian way. Therefore every member must strive to
 
 * Gain strategic knowledge that allows them to coordinate with others, shape strategy and take decisions
 * Be ready to act upon the things learned, make mistakes and get better through practice

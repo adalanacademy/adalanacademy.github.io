@@ -15,3 +15,5 @@ Irregular economies - so-called black markets - sustain millions of people aroun
 We strive to accurately understand the macroeconomic reality and to devise courses of action to build an effective and scalable counter-economy. We place a central focus on DeFi, decentralized blockchain-based finance, due to the vast array of tools it provides and enables to design monetary instruments, coordinate markets and organize complex economic systems.
 
 We are looking for skilled and experienced people to teach and study macroeconomic and monetary theory, the study of financial and monetary instruments, research into markets and decentralized distribution systems, economic ethics and philosophy regarding risk, trust, speculation and hedging, market analysis and token economics. It is an objective of the academy to develop and distribute education materials that give a comprehensible overview of economic history and counter-economic strategy and contribute to the emerging paradigm of democratic economics.
+
+Read reports from the academy's economics research group [here](https://archive.adalanacademy.org/Adalan_reports/).
